@@ -1,0 +1,25 @@
+INFO:Started a new game
+INFO:Player: O, Computer: X, Computer begins
+INFO:AI: could not win, continuing
+INFO:AI: could not block, continuing
+INFO:AI: could not place on opposite center
+INFO:AI: placed on empty corner field 1
+INFO:Player set on field 5
+INFO:AI: could not win, continuing
+INFO:AI: could not block, continuing
+INFO:AI: could not place on opposite center
+INFO:AI: placed on empty corner field 3
+INFO:Player set on field 2
+INFO:AI: could not win, continuing
+INFO:AI: found field 8 to block
+INFO:Player set on field 7
+INFO:AI: could not win, continuing
+INFO:AI: could not block, continuing
+INFO:AI: could not place on opposite center
+INFO:AI: placed on empty corner field 9
+INFO:Player set on field 6
+INFO:AI: could not win, continuing
+INFO:AI: found field 4 to block
+INFO:Draw
+INFO:Game finished
+INFO:-----------------------------------------------
